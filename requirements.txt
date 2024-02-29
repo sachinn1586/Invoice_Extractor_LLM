@@ -1,0 +1,6 @@
+streamlit
+langchain
+python-dotenv
+google-generativeai
+PyPDF2
+Chromadb #vector Embedding
